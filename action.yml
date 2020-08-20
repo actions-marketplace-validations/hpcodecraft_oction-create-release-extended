@@ -1,4 +1,4 @@
-name: oction-create-release
+name: oction-create-release-extended
 description: |
   This action implements `POST` request to `/repos/{owner}/{repo}/releases`
 
