@@ -12,7 +12,7 @@ This action implements `POST` request to `/repos/{owner}/{repo}/releases`
 # Quick start
 
 ```yaml
-- uses: hpcodecraft/oction-create-release-extended@master
+- uses: hpcodecraft/oction-create-release-extended@v0.7.3
   id: my_step_id
   with:
     token: <token value>
